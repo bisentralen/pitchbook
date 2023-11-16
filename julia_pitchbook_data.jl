@@ -1,4 +1,4 @@
-using CSV, DataFrames, DataFramesMeta
+using CSV, DataFrames
 
 """
 A Julia program that exctracts data for 3 companies, from 3 Pitchbook CSV files.
